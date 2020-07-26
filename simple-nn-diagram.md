@@ -4,3 +4,5 @@
 ![Figure Two](https://nuhil.files.wordpress.com/2017/05/ann-sigmoid.png?w=581&h=176 "Figure Two")  
 
 এখানে n এর মান 3 ধরলেই আমাদের সমস্যার সাথে উপরের ফিগারটি মিলে যাবে।
+
+[কোডিং](simple-nn-code.md)

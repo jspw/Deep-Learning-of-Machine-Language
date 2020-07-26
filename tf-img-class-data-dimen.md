@@ -65,3 +65,6 @@ plot_images(images=images, cls_true=cls_true)
 এই অবস্থায় নোটবুকের সেলটি এক্সিকিউট করলে নিচের মত আউটপুট আসবে,
 
 <img class="aligncenter size-full wp-image-1769" src="https://nuhil.files.wordpress.com/2017/05/screen-shot-2017-05-30-at-1-23-35-am.png" alt="" width="445" height="346" />
+
+
+[গ্রাফ তৈরি](tf-img-class-graph.md)

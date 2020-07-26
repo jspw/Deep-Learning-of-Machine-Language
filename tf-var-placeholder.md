@@ -96,3 +96,6 @@ with tf.Session() as session:
   [ 36.  38.  40.]
   [ 42.  44.  46.]]]
 ```
+
+
+[TensorFlow দিয়ে ইমেজ ক্লাসিফায়ার তৈরি](tf-img-class.md)

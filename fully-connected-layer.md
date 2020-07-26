@@ -14,3 +14,6 @@
 <p class="p1">এবং<span class="s1"> X </span>এর ফিল্টার এর সাথেই সব চেয়ে বেশি স্কোর এসেছে<span class="s1"> (</span>আসাটাই স্বাভাবিক কারন<span class="s1"> 2D </span>ম্যাট্রিক্স আর ফিল্টার ম্যাট্রিক্স একই দিকের মান নির্দেশ করে<span class="s1">)</span>। তাই বলা যায় এই ইমেজটি<span class="s1"> X </span>এর ইমেজ<span class="s1"> :) :D </span>আবার<span class="s1"> O </span>এর জন্য এই ফুলি কানেক্টেড লেয়ারটির ক্যালকুলেশন ট্রাই করে দেখি<span class="s1">,</span></p>
 <p class="p1"><img class="aligncenter wp-image-1754" src="https://nuhil.files.wordpress.com/2017/05/screen-shot-2017-05-20-at-9-13-52-pm.png?w=687" alt="" width="518" height="281" /></p>
 <p class="p1">এক্ষেত্রেও<span class="s1"> O </span>এর ফিল্টারের সাথেই বেশি স্কোর আসছে তাই সঠিক উত্তর<span class="s1">, O.</span></p>
+
+
+[কমপ্লিট কনভলিউশনাল নিউরাল নেটওয়ার্ক](cnn-full.md)

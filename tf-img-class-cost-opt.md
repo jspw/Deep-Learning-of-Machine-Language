@@ -43,3 +43,6 @@ correct_prediction = tf.equal(y_pred_cls, y_true_cls)
 # Cell 22
 accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
 ``` 
+
+
+[TensorFlow রান](tf-img-class-run.md)

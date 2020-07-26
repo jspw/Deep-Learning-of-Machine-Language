@@ -67,3 +67,5 @@ array([7, 2, 1, 0, 4])
 ```
 
 এতক্ষণে One-Hot Vector প্রেজেন্টেশন এবং argmax মেথডের কাজ বোঝা গেছে নিশ্চয়ই?
+
+[ডাটা ডাইমেনশন](tf-img-class-data-dimen.md)

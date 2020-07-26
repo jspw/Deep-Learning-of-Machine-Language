@@ -8,3 +8,4 @@
 
 ![Ann](https://nuhil.files.wordpress.com/2017/05/screen-shot-2017-05-18-at-9-35-36-pm.png?w=720&h=301 "Ann")  
 
+[মাল্টি লেয়ার নিউরাল নেটওয়ার্ক](multi-layer-nn.md)

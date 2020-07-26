@@ -30,3 +30,6 @@ data = input_data.read_data_sets("data/MNIST/", one_hot=True)
 ```
 
 এর মাধ্যমে ১২ মেগাবাইট সাইজের ডাটাসেটটি ডাউনলোড হবে যদি data/MNIST/ পাথে আগে থেকেই ডাটাসেটটি না থাকে।
+
+
+[ডাটা বুঝে নেয়া](tf-img-class-exp-data.md)

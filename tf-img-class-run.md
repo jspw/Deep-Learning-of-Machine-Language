@@ -180,3 +180,5 @@ session.close()
 
 <strong>পূর্ণ প্রোগ্রামঃ</strong>
 যারা নোটবুকে ধাপে ধাপে এই কোড ব্লক গুলো এক্সিকিউট করেছেন বোঝার জন্য এবং এখন গোছানো একটা প্রোগ্রাম চান যেকোনো জায়গায় রান করার জন্য - <a href="https://github.com/nuhil/deep-learning-research/blob/master/tf-mnist-lm-digit-classi.py">ক্লিক করুন এখানে</a>।
+
+

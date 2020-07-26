@@ -49,3 +49,4 @@
 
 ![Equation Five](https://nuhil.files.wordpress.com/2017/05/1-jow4wvwnop6rtij7vnq0gq.png "Equation Five")  
 
+[ফিরে দেখা](simple-nn-diagram.md)

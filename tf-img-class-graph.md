@@ -58,3 +58,5 @@ weights = tf.Variable(tf.zeros([img_size_flat, num_classes]))
 # Cell 14
 biases = tf.Variable(tf.zeros([num_classes]))
 ```
+
+[মডেল](tf-img-class-model.md)

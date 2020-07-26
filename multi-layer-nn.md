@@ -15,3 +15,6 @@
 <blockquote>
 <p class="p1">এই যে<span class="s1">, </span>বিভিন্ন স্টেজের মধ্যেকার কো<span class="s1">-</span>রিলেশনকে চেনার জন্য এবং কাজে লাগানোর জন্য এক বা একাধিক মধ্যবর্তী লেয়ারের সংযোজন<span class="s1">, </span>এটাকেই ডিপ লার্নিং বলে।</p>
 </blockquote>
+
+
+[কোডিং](multi-layer-nn-code.md) 
