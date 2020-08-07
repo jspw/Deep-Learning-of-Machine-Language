@@ -1,3 +1,5 @@
+[Topics](/SUMMARY.md)
+
 ## ডাটা ডাইমেনশন  
 ডাটা ডাইমেনশন সম্পর্কে স্বচ্ছ ধারনা রাখতে হবে মাথায়। কোন ম্যাট্রিক্স বা টেনসরের ডাইমেনশন এর প্রসঙ্গ আসা মাত্রই যাতে কল্পনায় স্পষ্ট একটা ভিউ আসে ওই ডাটা অবজেক্টটার। তাহলে সব কিছু সহজ মনে হবে। যাই হোক, এরকম কিছু ডাইমেনশনকে আমরা কিছু ভ্যারিয়েবলে স্টোর করি এবার এবং সেলটি এক্সিকিউট করে নেই,
 
@@ -67,4 +69,4 @@ plot_images(images=images, cls_true=cls_true)
 <img class="aligncenter size-full wp-image-1769" src="https://nuhil.files.wordpress.com/2017/05/screen-shot-2017-05-30-at-1-23-35-am.png" alt="" width="445" height="346" />
 
 
-[গ্রাফ তৈরি](tf-img-class-graph.md)
+[Next : গ্রাফ তৈরি](tf-img-class-graph.md)

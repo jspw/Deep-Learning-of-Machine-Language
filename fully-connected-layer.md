@@ -1,3 +1,5 @@
+[Topics](/SUMMARY.md)
+
 ## ফুলি কানেক্টেড লেয়ার  
 এবার আসুন এই লেয়ারের কাজ নিয়ে ভাবি<span class="s1"> - </span>এই লেয়ার ইনপুট হিসেবে নেয় কনভলিউশন এবং পুলিং লেয়ার কাছ থেকে পাওয়া প্রসেসড ইমেজ এবং তার উপর চিন্তা<span class="s1"> (</span>সেই চিন্তা<span class="s1">) </span>এবং ট্রেনিং<span class="s1"><span class="Apple-converted-space">   </span></span>করে প্যাটার্ন বুঝে নেয় এবং ঠিক করে কোনটা কোন ইমেজ।</p>
 <p class="p1"><img class="aligncenter wp-image-1748" src="https://nuhil.files.wordpress.com/2017/05/screen-shot-2017-05-20-at-9-09-53-pm.png" alt="" width="446" height="364" /></p>
@@ -16,4 +18,4 @@
 <p class="p1">এক্ষেত্রেও<span class="s1"> O </span>এর ফিল্টারের সাথেই বেশি স্কোর আসছে তাই সঠিক উত্তর<span class="s1">, O.</span></p>
 
 
-[কমপ্লিট কনভলিউশনাল নিউরাল নেটওয়ার্ক](cnn-full.md)
+[Next : কমপ্লিট কনভলিউশনাল নিউরাল নেটওয়ার্ক](cnn-full.md)

@@ -1,3 +1,5 @@
+[Topics](/SUMMARY.md)
+
 ## মাল্টি লেয়ার অর্থাৎ ডিপ নিউরাল নেটওয়ার্ক  
 আগের চ্যাপ্টারে উল্লেখ করা সমস্যাটি ছিল,
 
@@ -17,4 +19,4 @@
 </blockquote>
 
 
-[কোডিং](multi-layer-nn-code.md) 
+[Next : কোডিং](multi-layer-nn-code.md) 
